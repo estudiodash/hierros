@@ -1,0 +1,227 @@
+0000.000 (0) Opened log file at time: Wed, 20 Apr 2022 21:10:46 +0000 on http://127.0.0.1/hierros
+0000.054 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.11 WP: 5.9.3 PHP: 7.4.28 (apache2handler, Windows NT DESKTOP-R3U3SPC 10.0 build 19043 (Windows 10) AMD64) MySQL: 10.4.24-MariaDB (max packet size=1048576) WPLANG: es_ES Server: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/7.4.28 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 45.7M | 10M) multisite: N openssl: OpenSSL 1.1.1l  24 Aug 2021 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.104 (0) Free space on disk containing Updraft's temporary directory: 705629.4 MB
+0000.163 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.279 (0) Semaphore (fd, wp_options) being initialised
+0000.383 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.583 (0) Set semaphore last lock (fd) time to 2022-04-20 21:10:47
+0000.612 (0) Semaphore lock (fd) complete
+0000.700 (0) Backup run: resumption=0, nonce=b5a19dda02a3, file_nonce=b5a19dda02a3 begun at=1650489046 (1s ago), job type=backup
+0000.758 (0) Scheduling a resumption (1) after 300 seconds (1650489347) in case this run gets aborted
+0000.827 (0) Checking if we have a zip executable available
+0000.895 (0) Creation of backups of directories: beginning
+0000.991 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.862 (0) Total entities for the zip file: 707 directories, 2876 files (0 skipped as non-modified), 35.8 MB
+0001.953 (0) Zip: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0002.029 (0) Zip: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0002.108 (0) Zip: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0002.179 (0) Zip: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0002.243 (0) Zip: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0002.350 (0) Zip: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0002.410 (0) Zip: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0002.471 (0) Zip: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0002.529 (0) Zip: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0002.589 (0) Zip: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0002.637 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (7.4 MB, 2876 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0009.976 (0) Zip: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-plugins.zip.tmp: 1100 files added (on-disk size: 2710.2 KB)
+0010.039 (0) Zip: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-plugins.zip.tmp: 1200 files added (on-disk size: 2710.2 KB)
+0010.103 (0) Zip: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-plugins.zip.tmp: 1300 files added (on-disk size: 2710.2 KB)
+0010.171 (0) Zip: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-plugins.zip.tmp: 1400 files added (on-disk size: 2710.2 KB)
+0010.246 (0) Zip: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-plugins.zip.tmp: 1500 files added (on-disk size: 2710.2 KB)
+0010.302 (0) Zip: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-plugins.zip.tmp: 1600 files added (on-disk size: 2710.2 KB)
+0010.362 (0) Zip: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-plugins.zip.tmp: 1700 files added (on-disk size: 2710.2 KB)
+0010.416 (0) Zip: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-plugins.zip.tmp: 1800 files added (on-disk size: 2710.2 KB)
+0010.485 (0) Zip: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-plugins.zip.tmp: 1900 files added (on-disk size: 2710.2 KB)
+0010.553 (0) Zip: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-plugins.zip.tmp: 2000 files added (on-disk size: 2710.2 KB)
+0010.604 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (23.8 MB, 2876 files batched, 1001 (2002) added so far); re-opening (prior size: 2710.2 KB)
+0015.226 (0) Zip: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-plugins.zip.tmp: 2100 files added (on-disk size: 9914.4 KB)
+0015.522 (0) Zip: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-plugins.zip.tmp: 2200 files added (on-disk size: 9914.4 KB)
+0015.607 (0) Zip: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-plugins.zip.tmp: 2300 files added (on-disk size: 9914.4 KB)
+0015.677 (0) Zip: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-plugins.zip.tmp: 2400 files added (on-disk size: 9914.4 KB)
+0015.741 (0) Zip: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-plugins.zip.tmp: 2500 files added (on-disk size: 9914.4 KB)
+0015.833 (0) Zip: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-plugins.zip.tmp: 2600 files added (on-disk size: 9914.4 KB)
+0015.894 (0) Zip: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-plugins.zip.tmp: 2700 files added (on-disk size: 9914.4 KB)
+0015.952 (0) Zip: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-plugins.zip.tmp: 2800 files added (on-disk size: 9914.4 KB)
+0016.565 (0) Creating zip file manifest (C:\xampp\htdocs\hierros/wp-content/updraft/backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-plugins.zip.list-temp.tmp)
+0016.605 (0) Successfully created zip file manifest (size: 262952)
+0016.820 (0) Created plugins zip (0) - 11444.7 KB in 15.8 s (724.8 KB/s) (sha1: 67a4e1cc4655af4788c9bd49ddc42a47cdb894bb, sha256: 15182a97df2a27e699b2c4686f79326e0e9d5288b35883e2bf528c299d187613)
+0016.877 (0) Beginning creation of dump of themes (split every: 400 MB)
+0017.050 (0) Total entities for the zip file: 85 directories, 446 files (0 skipped as non-modified), 10.1 MB
+0017.464 (0) Zip: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0017.531 (0) Zip: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0017.644 (0) Zip: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0017.807 (0) Zip: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0022.342 (0) Creating zip file manifest (C:\xampp\htdocs\hierros/wp-content/updraft/backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-themes.zip.list-temp.tmp)
+0022.388 (0) Successfully created zip file manifest (size: 29853)
+0022.533 (0) Created themes zip (0) - 7393.7 KB in 5.6 s (1314.7 KB/s) (sha1: eb9173effad0617fa77fd664829f4abe87829632, sha256: d5394152f8ea10dffaf8be4fb1ba33c05e1ccba1323a25d7209a015cc39bb65a)
+0022.694 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0022.751 (0) Looking for candidates to backup in: C:\xampp\htdocs\hierros/wp-content/uploads
+0022.789 (0) finding files: 2022: adding to list (1)
+0022.824 (0) finding files: slider: adding to list (2)
+0022.869 (0) finding files: slider2: adding to list (3)
+0022.922 (0) finding files: wpcf7_uploads: adding to list (4)
+0022.992 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0023.156 (0) Total entities for the zip file: 11 directories, 83 files (0 skipped as non-modified), 11.3 MB
+0025.594 (0) Creating zip file manifest (C:\xampp\htdocs\hierros/wp-content/updraft/backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-uploads.zip.list-temp.tmp)
+0025.644 (0) Successfully created zip file manifest (size: 4779)
+0025.936 (0) Created uploads zip (0) - 10720 KB in 2.9 s (3677.3 KB/s) (sha1: 3cc9beb7197b3948bb649c6180f47cc70a603975, sha256: 5ed87c8be608372e5154a9cb420bd6cb4200bf48d1a79c33daf2969fb8fef86a)
+0026.007 (0) Beginning backup of other directories found in the content directory (index: 0)
+0026.036 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0026.066 (0) Looking for candidates to backup in: C:\xampp\htdocs\hierros/wp-content
+0026.124 (0) finding files: backupwordpress-d07f4f0fd3-backups: skipping: excluded by options (glob)
+0026.152 (0) finding files: backupwordpress-d07f4f0fd3-backups: skipping: excluded by options (glob)
+0026.152 (0) finding files: index.php: adding to list (1)
+0026.182 (0) finding files: languages: adding to list (2)
+0026.210 (0) finding files: plugins: skipping: this is the plugins directory
+0026.241 (0) finding files: themes: skipping: this is the themes directory
+0026.269 (0) finding files: updraft: skipping: this is the updraft directory
+0026.299 (0) finding files: upgrade: skipping: excluded by options
+0026.327 (0) finding files: uploads: skipping: this is the uploads directory
+0026.425 (0) Total entities for the zip file: 3 directories, 82 files (0 skipped as non-modified), 3.6 MB
+0026.928 (0) Creating zip file manifest (C:\xampp\htdocs\hierros/wp-content/updraft/backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-others.zip.list-temp.tmp)
+0026.958 (0) Successfully created zip file manifest (size: 4844)
+0027.069 (0) Created others zip (0) - 996.4 KB in 0.7 s (1442.8 KB/s) (sha1: ecd2e7804a9d3ad9b04c2445ce63417a2bb89fdd, sha256: 38d231599a42d365497db9365690112339f14b2dbb258472d528f12614873de9)
+0027.207 (0) Saving backup status to database (elements: 8)
+0027.294 (0) Beginning creation of database dump (WordPress DB)
+0027.449 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0027.652 (0) Table wp_options: Total expected rows (via COUNT): 196
+0027.685 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0027.774 (0) Table wp_options: Rows added in this batch (next record: 2095): 192 (uncompressed bytes in this segment=334520) in 0.18 seconds
+0027.883 (0) Table wp_options: finishing file(s) (2, 42.3 KB)
+0027.953 (0) Table wp_users: Total expected rows (via COUNT): 1
+0027.993 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0028.058 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1350) in 0.12 seconds
+0028.428 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0028.644 (0) Table wp_usermeta: Total expected rows (via COUNT): 23
+0028.704 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0028.747 (0) Table wp_usermeta: Rows added in this batch (next record: 23): 23 (uncompressed bytes in this segment=2105) in 0.18 seconds
+0028.952 (0) Table wp_usermeta: finishing file(s) (2, 1.1 KB)
+0029.085 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0029.161 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=684) in 0.15 seconds
+0029.284 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0029.393 (0) Table wp_comments: Total expected rows (via COUNT): 1
+0029.519 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0029.635 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2137) in 0.29 seconds
+0029.784 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0029.933 (0) Table wp_links: Total expected rows (via COUNT): 0
+0030.036 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1266) in 0.13 seconds
+0030.161 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0030.552 (0) Table wp_postmeta: Total expected rows (via COUNT): 106
+0030.593 (0) Table is relatively small; fetch_rows will thus be: 200 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0030.677 (0) Table wp_postmeta: Rows added in this batch (next record: 115): 106 (uncompressed bytes in this segment=27275) in 0.27 seconds
+0030.836 (0) Table wp_postmeta: finishing file(s) (2, 5.7 KB)
+0031.130 (0) Table wp_posts: Total expected rows (via COUNT): 224
+0031.185 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0031.283 (0) Table wp_posts: Rows added in this batch (next record: 255): 224 (uncompressed bytes in this segment=1597449) in 0.34 seconds
+0031.861 (0) Table wp_posts: finishing file(s) (2, 34.8 KB)
+0031.950 (0) Table wp_term_relationships: Total expected rows (approximate): 2
+0032.066 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 3 (uncompressed bytes in this segment=718) in 0.12 seconds
+0032.199 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0032.435 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 4
+0032.518 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0032.644 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=1009) in 0.32 seconds
+0033.237 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0033.460 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0033.511 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=657) in 0.14 seconds
+0033.814 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0033.983 (0) Table wp_terms: Total expected rows (via COUNT): 4
+0034.076 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0034.151 (0) Table wp_terms: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=858) in 0.20 seconds
+0034.298 (0) Table wp_terms: finishing file(s) (2, 0.5 KB)
+0034.372 (0) Table wp_nextend2_image_storage: Total expected rows (via COUNT): 6
+0034.410 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0034.436 (0) Table wp_nextend2_image_storage: Rows added in this batch (next record: 6): 6 (uncompressed bytes in this segment=2543) in 0.08 seconds
+0034.518 (0) Table wp_nextend2_image_storage: finishing file(s) (2, 0.8 KB)
+0034.592 (0) Table wp_nextend2_section_storage: Total expected rows (via COUNT): 2
+0034.628 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0034.652 (0) Table wp_nextend2_section_storage: Rows added in this batch (next record: 10097): 2 (uncompressed bytes in this segment=1359) in 0.08 seconds
+0034.752 (0) Table wp_nextend2_section_storage: finishing file(s) (2, 0.6 KB)
+0034.898 (0) Table wp_nextend2_smartslider3_generators: Total expected rows (via COUNT): 0
+0034.951 (0) Table wp_nextend2_smartslider3_generators: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=702) in 0.09 seconds
+0035.121 (0) Table wp_nextend2_smartslider3_generators: finishing file(s) (2, 0.4 KB)
+0035.229 (0) Table wp_nextend2_smartslider3_sliders: Total expected rows (via COUNT): 3
+0035.268 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0035.364 (0) Table wp_nextend2_smartslider3_sliders: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=20435) in 0.17 seconds
+0035.493 (0) Table wp_nextend2_smartslider3_sliders: finishing file(s) (2, 2.8 KB)
+0035.563 (0) Table wp_nextend2_smartslider3_sliders_xref: Total expected rows (approximate): 2
+0035.678 (0) Table wp_nextend2_smartslider3_sliders_xref: Rows added in this batch (next record: 1000): 2 (uncompressed bytes in this segment=738) in 0.12 seconds
+0035.751 (0) Table wp_nextend2_smartslider3_sliders_xref: finishing file(s) (2, 0.4 KB)
+0036.194 (0) Table wp_nextend2_smartslider3_slides: Total expected rows (via COUNT): 2
+0036.235 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0036.310 (0) Table wp_nextend2_smartslider3_slides: Rows added in this batch (next record: 7): 2 (uncompressed bytes in this segment=7618) in 0.48 seconds
+0036.435 (0) Table wp_nextend2_smartslider3_slides: finishing file(s) (2, 2 KB)
+0036.478 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_options.table.tmpr2096.gz (1/18/fopen): adding to final database dump
+0036.511 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_options.table.gz (2/18/fopen): adding to final database dump
+0036.535 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_users.table.tmpr2.gz (3/18/fopen): adding to final database dump
+0036.577 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_users.table.gz (4/18/fopen): adding to final database dump
+0036.619 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_usermeta.table.tmpr24.gz (5/18/fopen): adding to final database dump
+0036.668 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_usermeta.table.gz (6/18/fopen): adding to final database dump
+0036.693 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_commentmeta.table.tmpr0.gz (7/18/fopen): adding to final database dump
+0036.738 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_commentmeta.table.gz (8/18/fopen): adding to final database dump
+0036.810 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_comments.table.tmpr2.gz (9/18/fopen): adding to final database dump
+0036.873 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_comments.table.gz (10/18/fopen): adding to final database dump
+0036.938 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_links.table.tmpr0.gz (11/18/fopen): adding to final database dump
+0036.993 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_links.table.gz (12/18/fopen): adding to final database dump
+0037.040 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_postmeta.table.tmpr116.gz (13/18/fopen): adding to final database dump
+0037.110 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_postmeta.table.gz (14/18/fopen): adding to final database dump
+0037.385 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_posts.table.tmpr256.gz (15/18/fopen): adding to final database dump
+0037.677 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_posts.table.gz (16/18/fopen): adding to final database dump
+0037.777 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_term_relationships.table.tmpr100001.gz (17/18/fopen): adding to final database dump
+0037.818 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_term_relationships.table.gz (18/18/fopen): adding to final database dump
+0037.877 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_term_taxonomy.table.tmpr5.gz (19/18/fopen): adding to final database dump
+0037.935 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_term_taxonomy.table.gz (20/18/fopen): adding to final database dump
+0037.956 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_termmeta.table.tmpr0.gz (21/18/fopen): adding to final database dump
+0037.990 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_termmeta.table.gz (22/18/fopen): adding to final database dump
+0038.031 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_terms.table.tmpr5.gz (23/18/fopen): adding to final database dump
+0038.093 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_terms.table.gz (24/18/fopen): adding to final database dump
+0038.279 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_nextend2_image_storage.table.tmpr7.gz (25/18/fopen): adding to final database dump
+0038.410 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_nextend2_image_storage.table.gz (26/18/fopen): adding to final database dump
+0038.464 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_nextend2_section_storage.table.tmpr10098.gz (27/18/fopen): adding to final database dump
+0038.619 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_nextend2_section_storage.table.gz (28/18/fopen): adding to final database dump
+0038.693 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_nextend2_smartslider3_generators.table.tmpr0.gz (29/18/fopen): adding to final database dump
+0038.746 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_nextend2_smartslider3_generators.table.gz (30/18/fopen): adding to final database dump
+0038.777 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_nextend2_smartslider3_sliders.table.tmpr4.gz (31/18/fopen): adding to final database dump
+0038.804 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_nextend2_smartslider3_sliders.table.gz (32/18/fopen): adding to final database dump
+0038.835 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_nextend2_smartslider3_sliders_xref.table.tmpr1001.gz (33/18/fopen): adding to final database dump
+0038.863 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_nextend2_smartslider3_sliders_xref.table.gz (34/18/fopen): adding to final database dump
+0038.910 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_nextend2_smartslider3_slides.table.tmpr8.gz (35/18/fopen): adding to final database dump
+0038.938 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db-table-wp_nextend2_smartslider3_slides.table.gz (36/18/fopen): adding to final database dump
+0039.044 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db.gz: finished writing out complete database file (95 KB)
+0039.293 (0) Total database tables backed up: 18 (backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db.gz, size: 97430, sha1: d0f1eeaab9e8ff6a824f50304d2769f0f061d07a, sha256: 44ba6d0feca6146601e475ed9694b847a21dc32e01a9874dde4334ff273918ac)
+0039.402 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0039.449 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0039.513 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0039.618 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-others.zip: others: This file has not yet been successfully uploaded: will queue
+0039.743 (0) backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db.gz: db: This file has not yet been successfully uploaded: will queue
+0039.837 (0) Saving backup history. Total backup size: 29.9 MB
+0039.938 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0040.068 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0040.128 (0) No remote despatch: user chose no remote backup service
+0040.186 (0) Recording as successfully uploaded: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-plugins.zip
+0040.343 (0) Deleting zip manifest (backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-plugins.zip.list.tmp)
+0040.461 (0) Recording as successfully uploaded: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-themes.zip
+0040.568 (0) Deleting zip manifest (backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-themes.zip.list.tmp)
+0040.595 (0) Recording as successfully uploaded: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-uploads.zip
+0040.728 (0) Deleting zip manifest (backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-uploads.zip.list.tmp)
+0040.867 (0) Recording as successfully uploaded: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-others.zip
+0040.995 (0) Deleting zip manifest (backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-others.zip.list.tmp)
+0041.068 (0) Recording as successfully uploaded: backup_2022-04-20-2110_Venta_Panel_Sndwich_en_Andaluc_b5a19dda02a3-db.gz
+0041.186 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0041.237 (0) Number of backup sets in history: 1; groups (db): 1
+0041.303 (0) Examining (for databases) backup set with group_id=0, nonce=b5a19dda02a3, datestamp=1650489046 (Apr 20 2022 21:10:46)
+0041.343 (0) This backup set is the backup set just made, so will not be deleted.
+0041.343 (0) Number of backup sets in history: 1; groups (files): 1
+0041.370 (0) Examining (for files) backup set with nonce=b5a19dda02a3, datestamp=1650489046 (Apr 20 2022 21:10:46)
+0041.370 (0) This backup set is the backup set just made, so will not be deleted.
+0041.445 (0) This backup set is the backup set just made, so will not be deleted.
+0041.445 (0) This backup set is the backup set just made, so will not be deleted.
+0041.445 (0) This backup set is the backup set just made, so will not be deleted.
+0041.445 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0041.557 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0041.660 (0) Resume backup (b5a19dda02a3, 0): finish run
+0041.869 (0) Decremented the semaphore (fd) by 1
+0042.157 (0) Semaphore (fd) unlocked
+0042.203 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0042.353 (0) The backup apparently succeeded and is now complete
+0042.395 (0) No email will/can be sent - the user has not configured an email address.
+0042.418 (0) Aparentemente, la copia de seguridad ha sido correcta y ahora está completa
